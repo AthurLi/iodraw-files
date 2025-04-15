@@ -214,7 +214,7 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-125" value="&lt;div&gt;前几日&lt;/div&gt;是否难眠？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1540" y="175" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-131" value="" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jgFNPQG_voSGT-85lXcW-131" value="获得负值" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1695" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
