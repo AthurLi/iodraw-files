@@ -370,7 +370,7 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-193" value="进入做梦&lt;br&gt;起床时间加30分钟（一个行动点数）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1938" y="770" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-199" value="检定失败，进入难眠状态&lt;br&gt;起床时间加30分钟（一个行动点数）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;arcSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jgFNPQG_voSGT-85lXcW-199" value="加载失眠情节" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;arcSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2135" y="320" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
