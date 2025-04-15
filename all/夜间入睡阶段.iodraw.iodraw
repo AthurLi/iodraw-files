@@ -75,10 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-14" value="失眠阶段" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-15" value="做梦阶段" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endSize=7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-40" target="jgFNPQG_voSGT-85lXcW-41">
           <mxGeometry relative="1" as="geometry" />
@@ -121,10 +121,14 @@
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-57" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jgFNPQG_voSGT-85lXcW-14">
+        <mxCell id="jgFNPQG_voSGT-85lXcW-57" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="jgFNPQG_voSGT-85lXcW-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="370" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="330" />
+              <mxPoint x="580" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
