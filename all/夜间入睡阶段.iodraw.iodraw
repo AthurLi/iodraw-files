@@ -174,6 +174,9 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-65" value="喝两杯，熬两小时" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="700" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-74" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-67" target="jgFNPQG_voSGT-85lXcW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-67" value="喝三杯，熬三小时" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="770" width="120" height="50" as="geometry" />
         </mxCell>
@@ -192,6 +195,9 @@
               <mxPoint x="510" y="795" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-73" value="02:00入睡" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="770" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
