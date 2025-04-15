@@ -23,14 +23,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="是否早睡" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="jgFNPQG_voSGT-85lXcW-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="210" />
-              <mxPoint x="470" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="进入早睡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
         </mxCell>
@@ -56,23 +48,13 @@
           <mxGeometry x="170" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="23:00入睡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="310" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-0" value="21:00入睡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-2" value="22:00入睡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="jgFNPQG_voSGT-85lXcW-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="270" as="sourcePoint" />
-            <mxPoint x="560" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="210" />
-              <mxPoint x="470" y="240" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;难眠阶段&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="190" width="140" height="140" as="geometry" />
