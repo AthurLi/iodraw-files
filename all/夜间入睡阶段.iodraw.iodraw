@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-54" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" connectable="0" parent="jgFNPQG_voSGT-85lXcW-53">
           <mxGeometry x="-0.0095" y="2" relative="1" as="geometry">
-            <mxPoint x="8" as="offset" />
+            <mxPoint x="8" y="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-40" value="是否具有&lt;br&gt;咖啡成瘾buff" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -107,7 +107,7 @@
           <mxGeometry x="345" y="551.25" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-52" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="700" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
