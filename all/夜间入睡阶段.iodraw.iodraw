@@ -361,7 +361,7 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-191" value="是否大于10" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1963" y="630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-192" value="检定成功，跳过难眠状态&lt;br&gt;起床时间加0" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jgFNPQG_voSGT-85lXcW-192" value="跳过做梦&lt;br&gt;起床时间加0" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1938" y="530" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-193" value="进入做梦&lt;br&gt;起床时间加30分钟（一个行动点数）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
