@@ -148,9 +148,6 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-91" value="是否难眠" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-93" value="是否难眠" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="70" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
