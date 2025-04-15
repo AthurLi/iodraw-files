@@ -551,8 +551,14 @@
         <mxCell id="qmiKLylJP7_VZ8pqvsfx-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;每个行为都+1可叠加&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="1466.25" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qmiKLylJP7_VZ8pqvsfx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qmiKLylJP7_VZ8pqvsfx-33" target="qmiKLylJP7_VZ8pqvsfx-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qmiKLylJP7_VZ8pqvsfx-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;“梦想家”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1223" y="1150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmiKLylJP7_VZ8pqvsfx-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;“梦想家”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1423" y="1150" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
