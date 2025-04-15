@@ -183,16 +183,6 @@
             <mxPoint x="940" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-110" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jgFNPQG_voSGT-85lXcW-95">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="390" as="sourcePoint" />
-            <mxPoint x="990" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="925" y="390" />
-              <mxPoint x="925" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
