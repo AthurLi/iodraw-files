@@ -417,14 +417,14 @@
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-225" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" connectable="0" parent="jgFNPQG_voSGT-85lXcW-224">
           <mxGeometry x="-0.1081" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-221" value="是否&lt;br&gt;耐咖啡因" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="830" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-223" value="" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="jgFNPQG_voSGT-85lXcW-223" value="不影响睡眠&lt;br&gt;+0" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="860" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
