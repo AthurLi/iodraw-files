@@ -183,8 +183,8 @@
             <mxPoint x="1241" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-116" value="是否有剧情强制难眠" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="180" width="80" height="80" as="geometry" />
+        <mxCell id="jgFNPQG_voSGT-85lXcW-116" value="是否有剧情安排&lt;br&gt;强制难眠" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="170" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
