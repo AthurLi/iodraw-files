@@ -203,7 +203,7 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-121" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;0值大失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1670" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-125" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jgFNPQG_voSGT-85lXcW-125" value="&lt;div&gt;前几日&lt;/div&gt;是否难眠" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1540" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
