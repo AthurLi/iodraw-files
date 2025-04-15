@@ -119,11 +119,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" connectable="0" parent="jgFNPQG_voSGT-85lXcW-55">
-          <mxGeometry x="-0.1819" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-56" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-2" target="jgFNPQG_voSGT-85lXcW-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="300" as="sourcePoint" />
