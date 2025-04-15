@@ -400,6 +400,12 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-216" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;有氧运动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-217" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;喝咖啡熬夜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-218" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;喝咖啡熬夜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
