@@ -106,13 +106,11 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-41" value="选择喝一杯进入&lt;br&gt;3小时熬夜阶段" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="950" width="120" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-63" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-52" target="jgFNPQG_voSGT-85lXcW-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="725" />
-              <mxPoint x="510" y="655" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-52" target="jgFNPQG_voSGT-85lXcW-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgFNPQG_voSGT-85lXcW-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jgFNPQG_voSGT-85lXcW-52" target="jgFNPQG_voSGT-85lXcW-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jgFNPQG_voSGT-85lXcW-52" value="可以选择&lt;br&gt;喝几杯熬多久" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="550" width="120" height="50" as="geometry" />
