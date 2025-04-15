@@ -480,8 +480,8 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-254" value="“夜猫子”、“熬熬族”" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="1080" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qmiKLylJP7_VZ8pqvsfx-0" value="“夜猫子”、“熬熬族”" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="1080" width="120" height="30" as="geometry" />
+        <mxCell id="qmiKLylJP7_VZ8pqvsfx-0" value="-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
