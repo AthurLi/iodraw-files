@@ -174,8 +174,8 @@
         <mxCell id="jgFNPQG_voSGT-85lXcW-65" value="喝两杯，熬两小时" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="710" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jgFNPQG_voSGT-85lXcW-67" value="喝两杯，熬两小时" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="jgFNPQG_voSGT-85lXcW-67" value="喝三杯，熬三小时" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
