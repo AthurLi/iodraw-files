@@ -499,7 +499,7 @@
           <mxGeometry x="1194" y="1270" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="qmiKLylJP7_VZ8pqvsfx-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="1410" width="20" height="152.5" as="geometry" />
+          <mxGeometry x="590" y="1460" width="20" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="qmiKLylJP7_VZ8pqvsfx-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;每个行为都+1可叠加&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="1466.25" width="70" height="40" as="geometry" />
