@@ -120,7 +120,7 @@
         <mxCell id="M7TAP3cBbrXqWtEJqgwa-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="520" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="M7TAP3cBbrXqWtEJqgwa-1" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="M7TAP3cBbrXqWtEJqgwa-1" value="秩序感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
