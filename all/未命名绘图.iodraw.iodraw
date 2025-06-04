@@ -55,7 +55,10 @@
         <mxCell id="qC_JDrHFP8af6vUjhQS2-17" value="巩固" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="235" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qC_JDrHFP8af6vUjhQS2-19" value="自己的主观能动性形成的图景&lt;br&gt;对外部世界的适应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qC_JDrHFP8af6vUjhQS2-19" target="qC_JDrHFP8af6vUjhQS2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-19" value="自己的主观能动性形成的图景&lt;br&gt;一种对外部世界的适应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="570" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-21" value="“拟态环境”（或者说刻板印象）反应我们适应的那一部分世界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
