@@ -52,11 +52,11 @@
         <mxCell id="qC_JDrHFP8af6vUjhQS2-16" value="选择性接受事实&lt;br&gt;推送机制&lt;br&gt;...." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qC_JDrHFP8af6vUjhQS2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qC_JDrHFP8af6vUjhQS2-17" target="qC_JDrHFP8af6vUjhQS2-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-17" value="巩固" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
