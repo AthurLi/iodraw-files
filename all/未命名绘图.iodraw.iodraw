@@ -56,7 +56,12 @@
           <mxGeometry x="490" y="235" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qC_JDrHFP8af6vUjhQS2-19" target="qC_JDrHFP8af6vUjhQS2-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="610" />
+              <mxPoint x="317" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-19" value="自己的主观能动性形成的图景&lt;br&gt;一种对外部世界的适应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="570" width="170" height="60" as="geometry" />
@@ -99,6 +104,12 @@
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-33" value="维护&lt;br&gt;保护" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607.5" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.01;exitY=0.366;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qC_JDrHFP8af6vUjhQS2-21" target="qC_JDrHFP8af6vUjhQS2-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="570" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
