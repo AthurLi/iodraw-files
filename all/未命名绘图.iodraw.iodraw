@@ -49,8 +49,8 @@
         <mxCell id="qC_JDrHFP8af6vUjhQS2-15" value="加剧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="240" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qC_JDrHFP8af6vUjhQS2-16" value="选择性事实" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-16" value="选择性接受事实&lt;br&gt;推送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
