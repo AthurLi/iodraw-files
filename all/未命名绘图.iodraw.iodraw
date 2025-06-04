@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="qC_JDrHFP8af6vUjhQS2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-1" value="&lt;span style=&quot;font-size: 18pt; font-family: &amp;quot;阿里巴巴普惠体 2.0 55 Regular&amp;quot;;&quot;&gt;差异中寻求事物的&lt;/span&gt;&lt;span style=&quot;font-size: 18pt; font-family: &amp;quot;阿里巴巴普惠体 2.0 55 Regular&amp;quot;; background: yellow;&quot;&gt;同一性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="220" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
