@@ -56,37 +56,37 @@
           <mxGeometry x="490" y="235" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-19" value="自己的主观能动性形成的图景&lt;br&gt;对外部世界的适应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="490" width="170" height="60" as="geometry" />
+          <mxGeometry x="182.5" y="570" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-21" value="“拟态环境”反应我们适应的那一部分世界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="392.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-22" value="在这个世界中活动感到心安理得" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="547.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-23" value="自我认同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="692.5" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-24" value="归属感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="692.5" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="490" width="20" height="60" as="geometry" />
+          <mxGeometry x="672.5" y="570" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-27" value="撼动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="547.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qC_JDrHFP8af6vUjhQS2-22" target="qC_JDrHFP8af6vUjhQS2-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="510" as="sourcePoint" />
-            <mxPoint x="540" y="460" as="targetPoint" />
+            <mxPoint x="492.5" y="590" as="sourcePoint" />
+            <mxPoint x="542.5" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-29" value="被质疑、被摧残..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="612.5" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_JDrHFP8af6vUjhQS2-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="547.5" y="450" width="122.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
