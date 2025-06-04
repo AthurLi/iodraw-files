@@ -31,8 +31,8 @@
         <mxCell id="qC_JDrHFP8af6vUjhQS2-9" value="&lt;span style=&quot;font-size: 18pt; font-family: &amp;quot;阿里巴巴普惠体 2.0 55 Regular&amp;quot;;&quot;&gt;提高认知效率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qC_JDrHFP8af6vUjhQS2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="qC_JDrHFP8af6vUjhQS2-10" value="信息环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
