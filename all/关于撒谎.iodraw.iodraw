@@ -42,7 +42,7 @@
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="200" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-14" target="Eg-bMrFc0_eLcb0yTZ1X-19">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-14" target="Eg-bMrFc0_eLcb0yTZ1X-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-14" value="建构理想自我性撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -55,7 +55,7 @@
           <mxGeometry x="810" y="215" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-19" value="“雾化镜子”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
