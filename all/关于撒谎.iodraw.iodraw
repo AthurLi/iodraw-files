@@ -25,8 +25,14 @@
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-5" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-6" target="Eg-bMrFc0_eLcb0yTZ1X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-6" value="分隔的空间&lt;br&gt;错位的时差&lt;br&gt;洗漱的线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-8" value="消除了社会压力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
