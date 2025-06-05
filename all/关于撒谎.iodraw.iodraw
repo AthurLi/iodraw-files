@@ -57,8 +57,8 @@
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-19" value="“雾化镜子”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-22" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="210" width="130" height="30" as="geometry" />
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-22" value="保护自身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="320" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
