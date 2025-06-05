@@ -1,43 +1,46 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-0" target="Eg-bMrFc0_eLcb0yTZ1X-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="239.9999999999999" as="targetPoint" />
+            <mxPoint x="230" y="239.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-0" value="关于互联网的“撒谎”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-3" value="贫媒介不意味着更多的撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-5" target="Eg-bMrFc0_eLcb0yTZ1X-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-5" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-6" target="Eg-bMrFc0_eLcb0yTZ1X-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-6" value="分隔的空间&lt;br&gt;错位的时差&lt;br&gt;洗漱的线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-8" value="消除了社会压力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-10" value="127页的各种数据表明中介化的交流中人更坦诚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="450" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-11" value="但撒谎依然有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="390" width="20" height="120" as="geometry" />
+          <mxGeometry x="670" y="210" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="707" y="190" width="73" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
