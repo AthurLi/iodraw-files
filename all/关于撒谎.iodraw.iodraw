@@ -4,60 +4,60 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-0" target="Eg-bMrFc0_eLcb0yTZ1X-3">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-0" target="Eg-bMrFc0_eLcb0yTZ1X-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="239.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-0" value="关于互联网的“撒谎”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-0" value="关于互联网的“撒谎”" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-3" value="贫媒介不意味着更多的撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-3" value="贫媒介不意味着更多的撒谎" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-5" target="Eg-bMrFc0_eLcb0yTZ1X-6">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-5" target="Eg-bMrFc0_eLcb0yTZ1X-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-5" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-5" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-6" target="Eg-bMrFc0_eLcb0yTZ1X-8">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-6" target="Eg-bMrFc0_eLcb0yTZ1X-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-6" value="分隔的空间&lt;br&gt;错位的时差&lt;br&gt;洗漱的线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-6" value="分隔的空间&lt;br&gt;错位的时差&lt;br&gt;洗漱的线索" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-8" value="消除了社会压力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-8" value="消除了社会压力" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-10" value="127页的各种数据表明中介化的交流中人更坦诚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-10" value="127页的各种数据表明中介化的交流中人更坦诚" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="420" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-11" value="但撒谎依然有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-11" value="但撒谎依然有" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="220" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="200" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-14" target="Eg-bMrFc0_eLcb0yTZ1X-19">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-14" target="Eg-bMrFc0_eLcb0yTZ1X-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-14" value="建构理想自我性撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-14" value="建构理想自我性撒谎" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="255" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-17" value="吸引力与信誉的权衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-17" value="吸引力与信誉的权衡" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="830" y="215" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810" y="215" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-19" value="“雾化镜子”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-19" value="“雾化镜子”" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-22" value="保护自身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-22" value="保护自身" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="320" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
