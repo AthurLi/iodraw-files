@@ -37,25 +37,25 @@
           <mxGeometry x="540" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="240" width="20" height="100" as="geometry" />
+          <mxGeometry x="660" y="220" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="680" y="200" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-14" target="Eg-bMrFc0_eLcb0yTZ1X-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-14" value="建构理想自我性撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="275" width="130" height="30" as="geometry" />
+          <mxGeometry x="680" y="255" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-17" value="吸引力与信誉的权衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="235" width="70" height="60" as="geometry" />
+          <mxGeometry x="840" y="185" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="235" width="20" height="60" as="geometry" />
+          <mxGeometry x="810" y="215" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-19" value="“雾化镜子”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="335" width="90" height="30" as="geometry" />
+          <mxGeometry x="900" y="295" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
