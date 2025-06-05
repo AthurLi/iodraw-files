@@ -10,8 +10,14 @@
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-0" value="关于互联网的“撒谎”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-1" target="Eg-bMrFc0_eLcb0yTZ1X-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-1" value="中介化交流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-3" value="贫媒介不意味着更多的撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
