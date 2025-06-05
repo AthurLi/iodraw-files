@@ -19,8 +19,14 @@
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-3" value="贫媒介不意味着更多的撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eg-bMrFc0_eLcb0yTZ1X-5" target="Eg-bMrFc0_eLcb0yTZ1X-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-5" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-6" value="社交线索的减少让撒谎编的更容易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="494" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
