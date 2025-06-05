@@ -40,16 +40,16 @@
           <mxGeometry x="670" y="245" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-13" value="假装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="225" width="73" height="30" as="geometry" />
+          <mxGeometry x="690" y="225" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-14" value="建构理想自我性撒谎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-17" value="吸引力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="255" width="70" height="30" as="geometry" />
+        <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-17" value="吸引力与信誉的权衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="240" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eg-bMrFc0_eLcb0yTZ1X-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="180" width="20" height="120" as="geometry" />
+          <mxGeometry x="820" y="240" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
