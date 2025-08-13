@@ -49,8 +49,8 @@
         <mxCell id="GJlGTIXyEv-alDE547xk-16" value="等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="363" y="510" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-19" value="处理三者的关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="350" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
