@@ -26,16 +26,16 @@
           <mxGeometry x="170" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-6" value="主体陪体环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="360" width="90" height="20" as="geometry" />
+          <mxGeometry x="240" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-7" value="线条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="320" width="50" height="20" as="geometry" />
+          <mxGeometry x="390" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-8" value="位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="330" width="50" height="20" as="geometry" />
+          <mxGeometry x="389" y="390" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-9" value="位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="340" width="50" height="20" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-9" value="体积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-10" value="位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="450" width="50" height="20" as="geometry" />
