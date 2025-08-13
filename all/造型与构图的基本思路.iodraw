@@ -29,7 +29,7 @@
           <mxGeometry x="40" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-6" value="主体陪体环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="415" width="90" height="20" as="geometry" />
+          <mxGeometry x="240" y="415" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-7" value="线条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="360" width="50" height="20" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="363" y="510" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;处理三者的关系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="400" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
