@@ -50,13 +50,13 @@
           <mxGeometry x="200" y="405" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-22" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="340" width="50" height="20" as="geometry" />
+          <mxGeometry x="400" y="340" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-23" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="350" width="50" height="20" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-23" value="物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="390" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-24" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="370" width="50" height="20" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-24" value="景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="425" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
