@@ -72,7 +72,7 @@
         <mxCell id="GJlGTIXyEv-alDE547xk-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="272.5" width="20" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-29" value="配置关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GJlGTIXyEv-alDE547xk-29" value="的配置关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="435" y="285" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-41" value="通过...塑造视觉形象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="272.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="220" y="272.5" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
