@@ -93,8 +93,11 @@
         <mxCell id="GJlGTIXyEv-alDE547xk-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="380" as="sourcePoint" />
-            <mxPoint x="590" y="330" as="targetPoint" />
+            <mxPoint x="590" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GJlGTIXyEv-alDE547xk-41" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="350" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
