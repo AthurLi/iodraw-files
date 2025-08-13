@@ -96,8 +96,8 @@
             <mxPoint x="590" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-41" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="270" width="40" height="20" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-41" value="通过...塑造视觉形象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="272.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
