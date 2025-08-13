@@ -26,7 +26,10 @@
           <mxGeometry x="170" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-6" value="主体陪体环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="360" width="60" height="20" as="geometry" />
+          <mxGeometry x="260" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GJlGTIXyEv-alDE547xk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
