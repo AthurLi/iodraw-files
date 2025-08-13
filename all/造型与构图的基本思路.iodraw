@@ -25,8 +25,8 @@
         <mxCell id="GJlGTIXyEv-alDE547xk-5" value="构图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GJlGTIXyEv-alDE547xk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="GJlGTIXyEv-alDE547xk-6" value="三体组成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="360" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
