@@ -14,19 +14,19 @@
           <mxGeometry x="1480" y="650" width="920.48" height="889" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-0" value="光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="250" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="290" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-1" value="形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="260" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-2" value="色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="280" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-5" value="构图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-6" value="主体陪体环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="480" width="90" height="20" as="geometry" />
+          <mxGeometry x="531" y="530" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-7" value="线条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="621" y="290" width="50" height="20" as="geometry" />
@@ -50,16 +50,16 @@
           <mxGeometry x="200" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-22" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="290" width="50" height="20" as="geometry" />
+          <mxGeometry x="370" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-23" value="物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="320" width="50" height="20" as="geometry" />
+          <mxGeometry x="370" y="450" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-24" value="景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="350" width="50" height="20" as="geometry" />
+          <mxGeometry x="370" y="480" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GJlGTIXyEv-alDE547xk-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="300" width="20" height="60" as="geometry" />
+          <mxGeometry x="350" y="430" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
