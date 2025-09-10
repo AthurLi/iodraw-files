@@ -80,13 +80,16 @@
           <mxGeometry x="1010" y="-50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质的存在方式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" width="90" height="20" as="geometry" />
+          <mxGeometry x="1010" y="-10" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-36" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质的根本属性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="-10" width="20" height="60" as="geometry" />
+          <mxGeometry x="1100" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-38" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;事物的变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="15" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
