@@ -379,8 +379,14 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-183" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;起源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="500" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-184" target="6w7IpIWwHgCZgLEZE7gt-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-184" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;自然界长期发展的产物&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="757" y="480" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-185" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;只有人才为“意识”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="480" width="93" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
