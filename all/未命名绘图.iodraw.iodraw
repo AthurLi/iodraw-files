@@ -31,6 +31,9 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;静止是什么？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="943" y="31.25" width="76" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-15" target="6w7IpIWwHgCZgLEZE7gt-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-15" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;与运动的关系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="943" y="61.25" width="76" height="20" as="geometry" />
         </mxCell>
@@ -162,13 +165,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-72" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;运动的稳定状态&lt;br&gt;特殊状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-10" width="80" height="30" as="geometry" />
+          <mxGeometry x="1110" y="-13.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-76" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;空间相对位置暂时不变&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="-32.5" width="110" height="22.5" as="geometry" />
+          <mxGeometry x="1220" y="-36.25" width="110" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-77" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;事物的根本性质暂时不变&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="12.5" width="110" height="22.5" as="geometry" />
+          <mxGeometry x="1220" y="8.75" width="110" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-78" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;与运动的关系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="61.25" width="76" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
