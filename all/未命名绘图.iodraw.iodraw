@@ -26,7 +26,7 @@
           <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-360" width="20" height="510" as="geometry" />
+          <mxGeometry x="474" y="-350" width="20" height="500" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;静止是什么？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595.5" y="25" width="76" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="496" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="494" y="-420" width="558" height="110" as="geometry" />
+          <mxGeometry x="496" y="-420" width="558" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;物质是什么&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-66">
           <mxGeometry y="55" width="70" height="20" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="-200" width="426" height="200" as="geometry" />
+          <mxGeometry x="620" y="-190" width="426" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-67" target="6w7IpIWwHgCZgLEZE7gt-22">
           <mxGeometry relative="1" as="geometry">
