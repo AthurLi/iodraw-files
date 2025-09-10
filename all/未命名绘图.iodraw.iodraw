@@ -364,6 +364,9 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-168" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;最高级物质存在形态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="310" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-146" target="6w7IpIWwHgCZgLEZE7gt-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
