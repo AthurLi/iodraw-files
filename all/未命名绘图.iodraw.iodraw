@@ -269,13 +269,16 @@
           <mxGeometry x="938" y="-520" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-126" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;具体事物形态的时空是有限的&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="-220" width="120" height="20" as="geometry" />
+          <mxGeometry x="1050" y="-220" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-127" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;整个物质世界形态的时空是无限的&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-180" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-129" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;客观实在性（不以人的意志为转移）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-270" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-135" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-210" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
