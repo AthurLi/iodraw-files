@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1687" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,31 +371,31 @@
           <mxGeometry x="50" y="10" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-181" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="470" width="120" height="30" as="geometry" />
+          <mxGeometry x="494" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-182" value="客观世界的主观映像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="654" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-183" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;起源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="510" width="70" height="20" as="geometry" />
+          <mxGeometry x="654" y="530" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-184" target="6w7IpIWwHgCZgLEZE7gt-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-184" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;自然界长期发展的产物&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757" y="480" width="93" height="20" as="geometry" />
+          <mxGeometry x="741" y="500" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-185" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;只有人才为“意识”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="480" width="93" height="20" as="geometry" />
+          <mxGeometry x="914" y="500" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-187" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;社会历史发展产物&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="530" width="93" height="20" as="geometry" />
+          <mxGeometry x="744" y="550" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-188" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="740" y="490" width="20" height="60" as="geometry" />
+          <mxGeometry x="724" y="510" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-191" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;本质&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681.75" y="600" width="70" height="20" as="geometry" />
+          <mxGeometry x="665.75" y="620" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
