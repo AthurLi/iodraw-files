@@ -23,13 +23,13 @@
           <mxGeometry x="354" y="-150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-7" value="意识观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="354" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-460" width="20" height="700" as="geometry" />
+          <mxGeometry x="474" y="-460" width="20" height="610" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-19" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质世界的二重化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="230" width="90" height="20" as="geometry" />
+          <mxGeometry x="494" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540" y="-510" width="558" height="110" as="geometry" />
