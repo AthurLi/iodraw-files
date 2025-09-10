@@ -374,7 +374,7 @@
           <mxGeometry x="494" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-182" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;客观世界的主观映像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="430" width="120" height="30" as="geometry" />
+          <mxGeometry x="654" y="440" width="94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-183" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;起源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="654" y="505" width="70" height="20" as="geometry" />
@@ -396,9 +396,6 @@
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-191" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;本质&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="654" y="540" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-182" target="6w7IpIWwHgCZgLEZE7gt-182">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
