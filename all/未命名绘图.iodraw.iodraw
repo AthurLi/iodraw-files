@@ -373,29 +373,32 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-181" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-182" value="客观世界的主观映像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="654" y="440" width="120" height="30" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-182" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;客观世界的主观映像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-183" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;起源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="654" y="530" width="70" height="20" as="geometry" />
+          <mxGeometry x="654" y="505" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-184" target="6w7IpIWwHgCZgLEZE7gt-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-184" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;自然界长期发展的产物&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="741" y="500" width="93" height="20" as="geometry" />
+          <mxGeometry x="741" y="475" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-185" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;只有人才为“意识”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="914" y="500" width="93" height="20" as="geometry" />
+          <mxGeometry x="914" y="475" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-187" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;社会历史发展产物&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="744" y="550" width="93" height="20" as="geometry" />
+          <mxGeometry x="744" y="525" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-188" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="724" y="510" width="20" height="60" as="geometry" />
+          <mxGeometry x="724" y="485" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-191" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;本质&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665.75" y="620" width="70" height="20" as="geometry" />
+          <mxGeometry x="654" y="540" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-182" target="6w7IpIWwHgCZgLEZE7gt-182">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
