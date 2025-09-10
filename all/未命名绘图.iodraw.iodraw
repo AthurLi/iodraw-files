@@ -91,6 +91,12 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-38" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;不可分割的关系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="15" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-41" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;是什么&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-42" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;是什么&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
