@@ -210,7 +210,7 @@
           <mxGeometry x="793" y="-68.75" width="20" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-90" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="576" y="-48.75" width="20" height="70" as="geometry" />
+          <mxGeometry x="576" y="-48.75" width="20" height="148.75" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-95" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-78" target="6w7IpIWwHgCZgLEZE7gt-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -226,38 +226,41 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-99" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;相互依赖、相互渗透、相互包含&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="60" width="111" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-114" target="6w7IpIWwHgCZgLEZE7gt-117">
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-123" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="603" y="60" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-123" source="6w7IpIWwHgCZgLEZE7gt-114" target="6w7IpIWwHgCZgLEZE7gt-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-114" target="6w7IpIWwHgCZgLEZE7gt-118">
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-123" source="6w7IpIWwHgCZgLEZE7gt-114" target="6w7IpIWwHgCZgLEZE7gt-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-114" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;静止&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673" y="110" width="50" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-114" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;静止&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="70" y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-117" target="6w7IpIWwHgCZgLEZE7gt-114">
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-123" source="6w7IpIWwHgCZgLEZE7gt-117" target="6w7IpIWwHgCZgLEZE7gt-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-117" target="6w7IpIWwHgCZgLEZE7gt-119">
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-123" source="6w7IpIWwHgCZgLEZE7gt-117" target="6w7IpIWwHgCZgLEZE7gt-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-117" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;运动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673" y="60" width="50" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-117" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;运动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="70" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-118" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;形而上学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="110" width="50" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-118" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;形而上学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="160" y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-119" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;诡辩论&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="60" width="50" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-119" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;诡辩论&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="160" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-120" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;夸大&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="723" y="80" width="30" height="30" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-120" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;夸大&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="120" y="20" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-121" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;错误观点&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="603" y="85" width="50" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-121" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;错误观点&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry y="25" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-122" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="653" y="70" width="20" height="55" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-122" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
+          <mxGeometry x="50" y="10" width="20" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
