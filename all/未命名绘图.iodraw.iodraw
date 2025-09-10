@@ -158,6 +158,9 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-109" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;时间一维性，空间三维性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-310" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-110" target="6w7IpIWwHgCZgLEZE7gt-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-110" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;关系：&lt;u style=&quot;font-weight: bold;&quot;&gt;时空是运动着的物质的基本存在形式&lt;/u&gt;（因为物质运动，便有时空）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-270" width="290" height="20" as="geometry" />
         </mxCell>
@@ -272,7 +275,10 @@
           <mxGeometry x="1050" y="-180" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-129" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;客观实在性（不以人的意志为转移）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-270" width="120" height="20" as="geometry" />
+          <mxGeometry x="1370" y="-270" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-132" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;时间一维性，空间三维性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-300" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
