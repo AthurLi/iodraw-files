@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="334" y="-130" width="20" height="610" as="geometry" />
+          <mxGeometry x="334" y="-130" width="20" height="710" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-6" value="物质观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-150" width="120" height="40" as="geometry" />
@@ -369,6 +369,9 @@
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-122" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-123">
           <mxGeometry x="50" y="10" width="20" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-181" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
