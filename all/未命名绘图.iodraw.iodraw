@@ -5,10 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-1" value="辩证唯物论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="234" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;世界多样性与物质统一性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="155" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="140" as="sourcePoint" />
+            <mxPoint x="370" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
