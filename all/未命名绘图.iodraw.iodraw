@@ -373,8 +373,8 @@
             <mxPoint x="210" y="87.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="150" width="50" height="30" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-175" value="从属后才有你的独立性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
