@@ -280,15 +280,6 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-132" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;时空的绝对性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="-210" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-129" target="6w7IpIWwHgCZgLEZE7gt-132">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="-260" as="sourcePoint" />
-            <mxPoint x="1290" y="-260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-134" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
