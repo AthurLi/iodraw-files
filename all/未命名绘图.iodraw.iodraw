@@ -167,8 +167,8 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-76" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;空间相对位置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="-40" width="80" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-77" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;事物的根本性质&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="12.5" width="80" height="22.5" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-77" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;事物的根本性质暂时不变&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="12.5" width="110" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
