@@ -283,6 +283,9 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-136" value="世界上除了运动的物质，什么也没有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1303" y="-215" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-138" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;时间一维性，空间三维性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-300" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
