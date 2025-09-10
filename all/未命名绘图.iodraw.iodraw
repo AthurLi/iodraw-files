@@ -26,10 +26,10 @@
           <mxGeometry x="880" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-460" width="20" height="610" as="geometry" />
+          <mxGeometry x="474" y="-460" width="20" height="700" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-19" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质世界的二重化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496" y="140" width="90" height="20" as="geometry" />
+          <mxGeometry x="494" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540" y="-510" width="558" height="110" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="-250" width="423.5" height="200" as="geometry" />
+          <mxGeometry x="500" y="-330" width="423.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-68" target="6w7IpIWwHgCZgLEZE7gt-22">
           <mxGeometry relative="1" as="geometry">
@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-100" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="496" y="-40" width="613" height="161.25" as="geometry" />
+          <mxGeometry x="500" y="-40" width="613" height="161.25" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-100" source="6w7IpIWwHgCZgLEZE7gt-14" target="6w7IpIWwHgCZgLEZE7gt-72">
           <mxGeometry relative="1" as="geometry" />
