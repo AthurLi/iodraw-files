@@ -371,10 +371,13 @@
           <mxGeometry x="50" y="10" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-181" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-182" value="客观世界的主观映像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-183" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质世界的二重化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="500" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
