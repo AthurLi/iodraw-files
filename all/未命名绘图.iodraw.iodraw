@@ -211,6 +211,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-99" value="相互依赖" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="819" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
