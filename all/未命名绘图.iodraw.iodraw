@@ -44,7 +44,7 @@
           <mxGeometry x="522.5" y="-420" width="558" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;物质是什么&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-66">
-          <mxGeometry y="55" width="70" height="20" as="geometry" />
+          <mxGeometry x="-22.5" y="55" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6w7IpIWwHgCZgLEZE7gt-66" source="6w7IpIWwHgCZgLEZE7gt-20" target="6w7IpIWwHgCZgLEZE7gt-24">
           <mxGeometry relative="1" as="geometry" />
