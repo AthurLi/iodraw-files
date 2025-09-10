@@ -223,8 +223,8 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-107" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;物质运动和时空&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="-270" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-250" width="120" height="60" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-109" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;时间一维性，空间三维性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-350" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
