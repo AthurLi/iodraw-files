@@ -28,6 +28,9 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="474" y="-350" width="20" height="500" as="geometry" />
         </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6w7IpIWwHgCZgLEZE7gt-14" target="6w7IpIWwHgCZgLEZE7gt-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;静止是什么？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="20" width="76" height="20" as="geometry" />
         </mxCell>
@@ -160,6 +163,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="-190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-72" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;静止是什么？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="749" y="20" width="76" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
