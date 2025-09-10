@@ -404,7 +404,10 @@
           <mxGeometry x="487" y="585" width="116" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-195" value="主观能动性和客观规律性的辩证统一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="680" width="116" height="20" as="geometry" />
+          <mxGeometry x="487" y="650" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-196" value="主观能动性和客观规律性的辩证统一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="660" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
