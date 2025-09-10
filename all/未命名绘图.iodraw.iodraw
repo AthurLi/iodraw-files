@@ -400,8 +400,8 @@
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-193" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="576.5" y="435" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6w7IpIWwHgCZgLEZE7gt-194" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="610" width="92.5" height="20" as="geometry" />
+        <mxCell id="6w7IpIWwHgCZgLEZE7gt-194" value="意识对物质的反作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="610" width="116" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
