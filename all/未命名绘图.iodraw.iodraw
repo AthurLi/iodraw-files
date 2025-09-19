@@ -371,7 +371,7 @@
           <mxGeometry x="50" y="10" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-198" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="566.25" y="420" width="485.5" height="300" as="geometry" />
+          <mxGeometry x="474" y="410" width="485.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="6w7IpIWwHgCZgLEZE7gt-181" value="意识是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6w7IpIWwHgCZgLEZE7gt-198">
           <mxGeometry x="20" y="50" width="92.5" height="20" as="geometry" />
