@@ -20,9 +20,9 @@
           <mxGeometry x="300" y="140" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3CwlXk4rgW-zh8rw4xQ1-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;无法被语言化的部分，抵抗着象征化，不可被理解的，与实在界的遭遇，是现实秩序出现裂隙的时刻&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="360" width="250" height="90" as="geometry" />
+          <mxGeometry x="270" y="360" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3CwlXk4rgW-zh8rw4xQ1-1" target="3CwlXk4rgW-zh8rw4xQ1-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="250" as="sourcePoint" />
             <mxPoint x="360" y="200" as="targetPoint" />
