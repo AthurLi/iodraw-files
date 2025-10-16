@@ -28,13 +28,11 @@
             <mxPoint x="360" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CwlXk4rgW-zh8rw4xQ1-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="140" y="50" width="20" height="20" as="geometry" />
+        <mxCell id="3CwlXk4rgW-zh8rw4xQ1-13" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
