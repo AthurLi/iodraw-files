@@ -7,7 +7,7 @@
         <mxCell id="NFYiR7Mb5m8rFtnUXNdD-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;&quot;&gt;绝对人类阵&lt;/font&gt;营的鬼杀队——柱势力&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;无惨的鬼阵营&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;无惨的鬼阵营——十二鬼月&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="730" y="150" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NFYiR7Mb5m8rFtnUXNdD-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="NFYiR7Mb5m8rFtnUXNdD-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="740" y="585" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;非人类&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="750" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
