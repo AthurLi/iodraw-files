@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rvmkzn0_DOS2lpKvmqoQ">
-    <mxGraphModel dx="713" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
         <mxCell id="NFYiR7Mb5m8rFtnUXNdD-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;叙事功能：&lt;br&gt;制造同阵营摩擦&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;立场差异&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="860" width="217.5" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;提供&lt;br&gt;助力、条件&lt;br&gt;转化通道&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="126.25" y="880" width="217.5" height="85" as="geometry" />
+        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;提供&lt;br&gt;助力/条件&lt;br&gt;转化通道&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="116.25" y="870" width="217.5" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
