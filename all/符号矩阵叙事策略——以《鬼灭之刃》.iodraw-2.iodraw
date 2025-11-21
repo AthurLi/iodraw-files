@@ -67,7 +67,7 @@
             <mxPoint x="550" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;互补&lt;br&gt;蕴含&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NFYiR7Mb5m8rFtnUXNdD-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;互补&lt;br&gt;蕴含&lt;br&gt;目标一致&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="410" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NFYiR7Mb5m8rFtnUXNdD-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关系动态&lt;br&gt;转化&lt;br&gt;结盟&lt;br&gt;合体同体&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
