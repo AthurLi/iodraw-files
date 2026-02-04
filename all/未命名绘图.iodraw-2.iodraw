@@ -33,8 +33,8 @@
         <mxCell id="uxeiczlxnlOUQxgbUr56-5" value="选取同类型纪录片进行对比编码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="180" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uxeiczlxnlOUQxgbUr56-9" value="发布问卷调查&lt;br&gt;收集受众反馈数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="200" width="130" height="40" as="geometry" />
+        <mxCell id="uxeiczlxnlOUQxgbUr56-9" value="整合分析所有数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="180" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
