@@ -61,8 +61,8 @@
         <mxCell id="Rm953mneT8E0mvvgFq_H-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四种族杰出者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
           <mxGeometry x="20" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rm953mneT8E0mvvgFq_H-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;依盖队&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-320" width="160" height="60" as="geometry" />
+        <mxCell id="Rm953mneT8E0mvvgFq_H-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;各种怪兽&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-230" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
