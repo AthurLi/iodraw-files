@@ -100,8 +100,8 @@
             <mxPoint x="680" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rm953mneT8E0mvvgFq_H-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="Rm953mneT8E0mvvgFq_H-39" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;辅助者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
