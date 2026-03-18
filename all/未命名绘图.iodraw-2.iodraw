@@ -38,22 +38,22 @@
           <mxGeometry x="400" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="-30" width="350" height="210" as="geometry" />
+          <mxGeometry x="600" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry width="350" height="210" as="geometry" />
+          <mxGeometry width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四英杰&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry x="20" y="50" width="140" height="50" as="geometry" />
+          <mxGeometry x="20" y="38.095238095238095" width="140" height="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;五大种族NPC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry x="170" y="40" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="38.095238095238095" width="160" height="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;“呀哈哈”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry x="190" y="120" width="140" height="60" as="geometry" />
+          <mxGeometry x="190" y="114.28571428571428" width="140" height="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四种族杰出者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry x="20" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="20" y="114.28571428571428" width="160" height="57.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;其他怪兽与“守护者”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="-270" width="210" height="60" as="geometry" />
