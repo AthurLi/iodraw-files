@@ -14,10 +14,10 @@
           <mxGeometry x="270" y="210" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四英杰&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rm953mneT8E0mvvgFq_H-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;五种族&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="160" height="60" as="geometry" />
+        <mxCell id="Rm953mneT8E0mvvgFq_H-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;五大种族NPC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;依盖队&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="160" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="270" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四种族杰出者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="465" width="160" height="60" as="geometry" />
+          <mxGeometry x="470" y="465" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
