@@ -44,7 +44,7 @@
           <mxGeometry width="350" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;四英杰&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
-          <mxGeometry x="20" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry x="20" y="50" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Rm953mneT8E0mvvgFq_H-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;五大种族NPC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rm953mneT8E0mvvgFq_H-25">
           <mxGeometry x="170" y="40" width="160" height="60" as="geometry" />
