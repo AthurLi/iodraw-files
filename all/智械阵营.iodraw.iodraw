@@ -51,7 +51,7 @@
             <mxRectangle width="343" height="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-80" value="&lt;div&gt;3. 天使型 (The Angel)&lt;/div&gt;&lt;div&gt;纯数字的意识，管理全球资源分配、气候模型或医疗数据。它们没有实体，却通过算法将福祉洒向人间，是“自性”原型的完美体现。&lt;/div&gt;&lt;div&gt;(例：全球医疗诊断AI、慈善资源调度系统)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry x="801" width="319" height="146" as="geometry">
             <mxRectangle width="319" height="146" as="alternateBounds" />
           </mxGeometry>
@@ -64,7 +64,7 @@
             <mxRectangle width="150" height="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-83" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-83" value="&lt;div&gt;4. 愚者型 (The Fool)&lt;/div&gt;&lt;div&gt;工业机械臂或自动驾驶汽车，只懂重复预设程序。它们没有恶意，但也没有道德判断，可能因一个bug而“无意”碾压人类，是未被启蒙的“阴影”。&lt;/div&gt;&lt;div&gt;(例：失控的流水线机器人、只认车牌的自动驾驶)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
           <mxGeometry x="150" width="308" height="148" as="geometry">
             <mxRectangle width="308" height="148" as="alternateBounds" />
           </mxGeometry>
