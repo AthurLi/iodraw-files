@@ -1,11 +1,14 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Cjvtvpph95vROZOqplO2">
-    <mxGraphModel dx="1102" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-70" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="800" y="290" width="590" height="320" as="geometry" />
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="710" y="280" width="590" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-70" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-94">
+          <mxGeometry width="590" height="320" as="geometry" />
         </mxCell>
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-70">
           <mxGeometry width="590" height="48" as="geometry" />
@@ -105,11 +108,11 @@
             <mxPoint x="260" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-92" value="械心" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="807" y="310" width="43" height="30" as="geometry" />
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-92" value="械心" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-94">
+          <mxGeometry y="20" width="43" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-93" value="形式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="40" height="30" as="geometry" />
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-93" value="形式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-94">
+          <mxGeometry x="40" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
