@@ -59,7 +59,7 @@
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-70">
           <mxGeometry y="164" width="700" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-82" value="中庸" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-82" value="&lt;div&gt;混沌 (Chaotic)&lt;/div&gt;&lt;div&gt;无法理解人类道德，遵循纯粹逻辑或随机性&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
           <mxGeometry width="94" height="109" as="geometry">
             <mxRectangle width="94" height="109" as="alternateBounds" />
           </mxGeometry>
@@ -82,7 +82,7 @@
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-70">
           <mxGeometry y="273" width="700" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-87" value="丑恶" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-87" value="&lt;div&gt;背道而驰 (Malevolent)&lt;/div&gt;&lt;div&gt;与人类的道德背道而驰，主动作恶&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
           <mxGeometry width="94" height="107" as="geometry">
             <mxRectangle width="94" height="107" as="alternateBounds" />
           </mxGeometry>
