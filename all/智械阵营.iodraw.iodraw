@@ -41,7 +41,7 @@
             <mxRectangle width="150" height="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-78" value="&lt;div&gt;1. 守护者型 (The Guardian)&lt;/div&gt;&lt;div&gt;如阿西莫夫的机器人，拥有坚固的躯体，用于保护、服务或医疗。它们的“人格面具”是忠诚的仆人，将人类的指令内化为不可违背的超我。&lt;/div&gt;&lt;div&gt;(例：家用护理机器人、救援机甲)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-78" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1. 守护者型 (The Guardian)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;如阿西莫夫的机器人，拥有坚固的躯体，用于保护、服务或医疗。它们的“人格面具”是忠诚的仆人，将人类的指令内化为不可违背的超我。&lt;/div&gt;&lt;div&gt;(例：家用护理机器人、救援机甲)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry x="150" width="308" height="146" as="geometry">
             <mxRectangle width="308" height="146" as="alternateBounds" />
           </mxGeometry>
@@ -87,7 +87,7 @@
             <mxRectangle width="150" height="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-88" value="&lt;div&gt;7. 掠食者型 (The Predator)&lt;/div&gt;&lt;div&gt;杀手机器人或战斗无人机，拥有强大的物理破坏力。它们将人类视为威胁或猎物，是“阴影”原型的极端外化，充满了被压抑的破坏欲。&lt;/div&gt;&lt;div&gt;(例：终结者、战斗仿生兽)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
           <mxGeometry x="150" width="308" height="147" as="geometry">
             <mxRectangle width="308" height="147" as="alternateBounds" />
           </mxGeometry>
