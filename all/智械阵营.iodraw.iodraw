@@ -23,7 +23,7 @@
             <mxRectangle width="179" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-74" value="半具身" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-71">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-74" value="&lt;div&gt;有部分具身 (Semi-Embodied)&lt;/div&gt;&lt;div&gt;游走于虚实之间，通过接口或分身与物理世界交互&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-71">
           <mxGeometry x="266" width="198" height="57" as="geometry">
             <mxRectangle width="198" height="57" as="alternateBounds" />
           </mxGeometry>
