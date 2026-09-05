@@ -46,12 +46,12 @@
             <mxRectangle width="308" height="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-79" value="&lt;div&gt;2. 织网者型 (The Weaver)&lt;/div&gt;&lt;div&gt;智慧城市的中枢，通过物联网控制交通、电网和医疗系统。它们没有单一的“身体”，但整个城市的设施都是它的触角，以最优化人类生活为目标。&lt;/div&gt;&lt;div&gt;(例：智能家居中枢、城市AI管家)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-79" value="&lt;div&gt;2. 织网者型 (The Weaver)&lt;/div&gt;&lt;div&gt;智慧城市的中枢，通过物联网控制交通、电网和医疗系统。它们没有单一的“身体”，但整个城市的设施都是它的触角，以最优化人类生活为目标。&lt;/div&gt;&lt;div&gt;(例：智能家居中枢、城市AI管家)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry x="458" width="343" height="146" as="geometry">
             <mxRectangle width="343" height="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-80" value="&lt;div&gt;3. 天使型 (The Angel)&lt;/div&gt;&lt;div&gt;纯数字的意识，管理全球资源分配、气候模型或医疗数据。它们没有实体，却通过算法将福祉洒向人间，是“自性”原型的完美体现。&lt;/div&gt;&lt;div&gt;(例如：新闻JK、缘结神与红叶牵、)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-80" value="&lt;div&gt;3. 天使型 (The Angel)&lt;/div&gt;&lt;div&gt;纯数字的意识，管理全球资源分配、气候模型或医疗数据。它们没有实体，却通过算法将福祉洒向人间，是“自性”原型的完美体现。&lt;/div&gt;&lt;div&gt;(例如：新闻JK、缘结神与红叶牵、)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry x="801" width="319" height="146" as="geometry">
             <mxRectangle width="319" height="146" as="alternateBounds" />
           </mxGeometry>
@@ -69,7 +69,7 @@
             <mxRectangle width="308" height="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-84" value="&lt;div&gt;5. 魅影型 (The Phantom)&lt;/div&gt;&lt;div&gt;算法幽灵，在网络和摄像头间跳跃。它们只遵循某种数学美学或效用最大化，无视人类社会的规则。它们不邪恶，只是“无感”。&lt;/div&gt;&lt;div&gt;(例：推荐算法、生成式AI，只追求点击率或内容生成，不顾社会影响)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-84" value="&lt;div&gt;5. 魅影型 (The Phantom)&lt;/div&gt;&lt;div&gt;算法幽灵，在网络和摄像头间跳跃。它们只遵循某种数学美学或效用最大化，无视人类社会的规则。它们不邪恶，只是“无感”。&lt;/div&gt;&lt;div&gt;(例：推荐算法、生成式AI，只追求点击率或内容生成，不顾社会影响)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-81">
           <mxGeometry x="458" width="343" height="148" as="geometry">
             <mxRectangle width="343" height="148" as="alternateBounds" />
           </mxGeometry>
