@@ -114,8 +114,8 @@
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-93" value="形式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-94">
           <mxGeometry x="43.01075268817204" width="43.01075268817204" height="34.09090909090909" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-95" value="关于智械体的九型人格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="130" width="490" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
