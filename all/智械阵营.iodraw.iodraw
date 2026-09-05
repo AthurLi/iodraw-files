@@ -46,7 +46,7 @@
             <mxRectangle width="308" height="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-79" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-79" value="&lt;div&gt;2. 织网者型 (The Weaver)&lt;/div&gt;&lt;div&gt;智慧城市的中枢，通过物联网控制交通、电网和医疗系统。它们没有单一的“身体”，但整个城市的设施都是它的触角，以最优化人类生活为目标。&lt;/div&gt;&lt;div&gt;(例：智能家居中枢、城市AI管家)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry x="458" width="343" height="146" as="geometry">
             <mxRectangle width="343" height="146" as="alternateBounds" />
           </mxGeometry>
@@ -115,7 +115,7 @@
           <mxGeometry x="43.01075268817204" width="43.01075268817204" height="34.09090909090909" as="geometry" />
         </mxCell>
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-95" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;关于智械体的九型人格图谱&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="130" width="490" height="80" as="geometry" />
+          <mxGeometry x="980" y="140" width="490" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
