@@ -82,7 +82,7 @@
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-70">
           <mxGeometry y="373" width="1120" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-87" value="&lt;div&gt;背道而驰 (Malevolent)&lt;/div&gt;&lt;div&gt;与人类的道德背道而驰，主动作恶&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-87" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;背道而驰 (Malevolent)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;与人类的道德背道而驰，主动作恶&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-86">
           <mxGeometry width="150" height="147" as="geometry">
             <mxRectangle width="150" height="147" as="alternateBounds" />
           </mxGeometry>
@@ -113,6 +113,9 @@
         </mxCell>
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-93" value="形式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-94">
           <mxGeometry x="43.01075268817204" width="43.01075268817204" height="34.09090909090909" as="geometry" />
+        </mxCell>
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
