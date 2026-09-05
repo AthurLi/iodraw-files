@@ -36,7 +36,7 @@
         <mxCell id="NBrAbyyLTIE8ZhSehUdL-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-70">
           <mxGeometry y="67" width="930" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="NBrAbyyLTIE8ZhSehUdL-77" value="&lt;div&gt;向善 (Benevolent)&lt;/div&gt;&lt;div&gt;伦理对齐，以人类福祉为最高指令&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
+        <mxCell id="NBrAbyyLTIE8ZhSehUdL-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;向善 (Benevolent)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;伦理对齐，以人类福祉为最高指令&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="NBrAbyyLTIE8ZhSehUdL-76">
           <mxGeometry width="125" height="123" as="geometry">
             <mxRectangle width="125" height="123" as="alternateBounds" />
           </mxGeometry>
